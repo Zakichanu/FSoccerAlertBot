@@ -1,5 +1,10 @@
 # BotApiFoot
-Bot api foot
-0.5.0 Live time fixtures for PL & C1
+
+🐦 You can find this bot on @FSoccerAlert. 
+
+‼️ Some stuff are not scripted here, I will put them in the future
+
+📩 You can reach me at : zakariatobb@gmail.com :D
+
 
 
