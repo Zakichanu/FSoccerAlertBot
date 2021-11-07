@@ -1,4 +1,4 @@
-# BotApiFoot
+# FSoccerAlert
 
 🐦 You can find this bot on @FSoccerAlert. 
 
